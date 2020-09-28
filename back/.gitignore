@@ -1,0 +1,5 @@
+node_modules
+.env
+__ignore__
+requests
+tests
